@@ -1,11 +1,11 @@
 {
   "installed":{
-    "client_id":"449592236792-akouaaen0k4tvtck0jjtsv36kvqc79et.apps.googleusercontent.com",
+    "client_id":"refer to saved client_id or retrieve from GCP",
     "project_id":"windy-smoke-308506",
     "auth_uri":"https://accounts.google.com/o/oauth2/auth",
     "token_uri":"https://oauth2.googleapis.com/token",
     "auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs",
-    "client_secret":"Q1HXuPefTSFPrTTy0Dd7rseq",
+    "client_secret":"refer to saved client_secret or retrieve from GCP",
     "redirect_uris":["urn:ietf:wg:oauth:2.0:oob","http://localhost"]
   }
 }
